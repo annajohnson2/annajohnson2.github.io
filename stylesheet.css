@@ -9,3 +9,32 @@ body {
 h1 {
     color: purple;
 } 
+p {
+    color: indigo;
+}
+
+body {
+    margin: 0; /*gets rid of white space*/
+}
+
+ul {
+    list-style-type: none; /*removes white space*/
+    background: White;
+    width: 100px;
+    padding: 0; /*removes padding on the left*/
+    margin: 0;
+}
+
+li a {
+    display: block;
+    text-decoration:none;
+    color: Black;
+    font-family: arial;
+    padding: 10px;
+    text-align: center;
+}
+
+li a:hover {
+    background: black;
+    color: white;
+}
