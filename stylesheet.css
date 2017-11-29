@@ -2,9 +2,11 @@ html {
    height: 100%;
 }
 body {
-   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png");
    background-postion: center center;
    background-size: cover;
+}
+   body.bg_flag {
+http://www.mch.govt.nz/sites/default/files/nz%20flag%20wikipedia_0.png
 }
 h1 {
     color: purple;
